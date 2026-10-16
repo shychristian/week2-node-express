@@ -1,0 +1,22 @@
+{
+  "name": "assg2",
+  "version": "1.0.0",
+  "description": "Week 2 Assignment 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Ukah-Nwokejiezi Nzubechukwu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
